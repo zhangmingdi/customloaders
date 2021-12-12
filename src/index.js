@@ -1,3 +1,5 @@
+import './index.less'
+
 const arr = [1, 1, 2, 3, 32]
 
 
